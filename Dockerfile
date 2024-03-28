@@ -1,4 +1,4 @@
-FROM java:8
+FROM adoptopenjdk:8-jdk-hotspot
 
 WORKDIR /app/java_project/
 
